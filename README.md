@@ -1,0 +1,2 @@
+# picture
+picgo_vscode
